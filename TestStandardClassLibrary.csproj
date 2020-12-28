@@ -5,6 +5,7 @@
 		<NeutralLanguage>en-US</NeutralLanguage>
 		<OutputPath>$(SolutionDir)\Bin\$(Configuration)\$(Platform)</OutputPath>
 		<Platforms>x86;x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
 		<TargetFramework>netstandard2.0</TargetFramework>
 	</PropertyGroup>
 
